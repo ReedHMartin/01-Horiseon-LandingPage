@@ -20,6 +20,6 @@ The page should render as follows:
 ## Links
 
 
-[Github URL](https://github.com/ReedHMartin/Challenge1) 
+[Github URL](https://github.com/ReedHMartin/Horiseon-LandingPage) 
 
-[Deployed URL](https://reedhmartin.github.io/Challenge1/)
+[Deployed URL](https://reedhmartin.github.io/Horiseon-LandingPage/)
