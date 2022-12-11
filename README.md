@@ -13,7 +13,7 @@ The intent of this project was to refactor existing HTML into Semantic HTML and 
 
 The page should render as follows:
 
-![alt text](assets/screenshot.png)
+![alt text](assets/images/screenshot.png)
 
 
 
